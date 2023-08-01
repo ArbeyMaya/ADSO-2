@@ -16,12 +16,7 @@ let psueldo= 30/100;
 const nsueldo = parseInt(sueldo1) +parseInt(sueldo*psueldo);*/
 
 
-/* -Una tienda ofrece un 25% de descuento por cada compra. Un cliente desea
-saber cuánto deberá pagar por su compra. */
 
-const descuento = 0.25;
-const montoDescuento = precioOriginal * descuento ;
-const precioConDescuento = precioOrigianl - montoDescuento ;
 
 
 
